@@ -1,3 +1,4 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parwathi-Jayaram&theme=react-dark&hide_border=false)
 ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Parwathi-Jayaram?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
+Hello World! I am Parwathi Jayaram. I am a tech enthusiast who loves to explore new tech stacks.
 ![Stats Card 2](https://awesome-github-stats.azurewebsites.net/user-stats/Parwathi-Jayaram?theme=github&cardType=octocat)
