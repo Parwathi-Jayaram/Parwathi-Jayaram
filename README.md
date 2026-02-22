@@ -1,3 +1,4 @@
+# Hi👋 I am Parwathi Jayaram. I love building new projects and contributing to different open source projects.
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parwathi-Jayaram&theme=react-dark&hide_border=false)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Parwathi-Jayaram?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
